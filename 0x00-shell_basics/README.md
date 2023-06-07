@@ -1,1 +1,1 @@
-Create a script that creates a dir in the /tmp/ directory.
+Move file<betty> to 1st directory
