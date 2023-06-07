@@ -1,1 +1,1 @@
-Deleting betty just after moving it
+Deleting dir<my_first_directory
